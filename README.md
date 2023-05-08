@@ -1,1 +1,1 @@
-# fol_to_ast_parser
+# First Order Logic to Abstract Syntax Tree Parser
